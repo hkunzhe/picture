@@ -19,7 +19,7 @@ else
 fi
 
 git push origin master
-url="https://github.com/hkunzhe/picture/blob/master/"
+url="https://raw.githubusercontent.com/hkunzhe/picture/master/"
 for file in $add_files
 do
     echo $url$file
